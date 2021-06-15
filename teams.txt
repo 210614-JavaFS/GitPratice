@@ -1,4 +1,16 @@
 Alchemy:
+<<<<<<< HEAD
+1.
+
+Amplifire:
+1.
+
+Vanquish:
+1. 
+
+Synergy:
+1. Christian Pizarro
+=======
 
 1. Matthew Alston
 2. Nattee Setobol
@@ -21,6 +33,7 @@ Vanquish:
 1. Billy Toledo
 2. Munib Khan
 3. Ling Zeng
+4. Darnell Bryant
 
 
 1.Munib Khan
@@ -37,7 +50,11 @@ Synergy:
 4. Fletcher Wilmott
 5. Thomas Woods
 6. Dalton
+<<<<<<< HEAD
+>>>>>>> 98b06fc8b0ec8d5ff8142af104847c8cc35b8cfd
+=======
 7. Brendan Sholl
+>>>>>>> 3e0a0c1467b9dbc937b3367dbcb4995ac63582de
 
 Trainer:
 1. Tim Gattie
