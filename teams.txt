@@ -15,6 +15,7 @@ Amplifire:
 6. Matt Malan
 7. Hong Wu
 8. Aaron Killeen
+9. Michael Ramirez
 
 Vanquish:
 1. Billy Toledo
