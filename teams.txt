@@ -6,3 +6,6 @@ Amplifire:
 
 Vanquish:
 1.
+
+Synergy:
+1.
