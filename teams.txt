@@ -2,14 +2,15 @@ Alchemy:
 1.
 
 Amplifire:
-1.Rose Black
-2.Hong Wu
+1. Rose Black
+2. Aaron Killeen
+3. Hong Wu
 
 Vanquish:
 1.
 
 Synergy:
-1.
+1. Thomas Woods
 
 Trainer:
 1. Tim Gattie
