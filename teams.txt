@@ -18,7 +18,6 @@ Vanquish:
 2. Ling Zeng
 
 Synergy:
-<<<<<<< HEAD
 1. Christian Pizarro
 2. Lou Estimar
 
