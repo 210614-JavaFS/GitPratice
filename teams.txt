@@ -1,14 +1,39 @@
 Alchemy:
-1.
+
+1. Matthew Alston
+2. Nattee Setobol
+3. Benjamin Dixon
+4. Muhammad Siddiqui
 
 Amplifire:
-1.
+1. June Greenup
+2. Dylan Villhauer
+3. Jose Alfaro
+4. Rose Black
+5. Javier Gonzalez
 
 Vanquish:
+<<<<<<< HEAD
 1. Darnell Bryant
+=======
+
+
+1.Billy Toledo
+
+2.Munib Khan
+
+
+1.Munib Khan
+2. Ling Zeng
+
+>>>>>>> 2eaa962bc0bac408092f6f42c17211dbedd92d48
 
 Synergy:
 1. Christian Pizarro
+2. Lou Estimar
+4. George Cobb
+5. Fletcher Wilmott
+6. Thomas Woods
 
 Trainer:
 1. Tim Gattie
