@@ -1,10 +1,9 @@
 Alchemy:
-<<<<<<< HEAD
-1.Benjamin Dixon
-=======
+
 1. Matthew Alston
 2. Nattee Setobol
->>>>>>> a8ea5c48eb35f5ce99dcce6aa3b1f2b7b338995e
+3.Benjamin Dixon
+4. Muhammad Siddiqui
 
 Amplifire:
 1. June Greenup
