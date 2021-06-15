@@ -1,10 +1,26 @@
 Alchemy:
+<<<<<<< HEAD
+1.
+
+Amplifire:
+1.
+
+Vanquish:
+1. 
+
+Synergy:
+1. Christian Pizarro
+=======
 
 1. Matthew Alston
 2. Nattee Setobol
 3. Benjamin Dixon
 4. Muhammad Siddiqui
+<<<<<<< HEAD
 5. Renzo Silva
+=======
+5. Bryan Valenzuela
+>>>>>>> 9956a3c495730d347067e2c4ced3156420017cc6
 
 Amplifire:
 1. June Greenup
@@ -15,22 +31,30 @@ Amplifire:
 6. Matt Malan
 7. Hong Wu
 8. Aaron Killeen
+9. Michael Ramirez
 
 Vanquish:
-1.Billy Toledo
-2.Munib Khan
+1. Billy Toledo
+2. Munib Khan
 3. Ling Zeng
+4. Darnell Bryant
 
 
 Synergy:
 1. Christian Pizarro
 2. Lou Estimar
-4. George Cobb
-5. Fletcher Wilmott
-6. Thomas Woods
-7. Dalton
+3. George Cobb
+4. Fletcher Wilmott
+5. Thomas Woods
+6. Dalton
+<<<<<<< HEAD
+>>>>>>> 98b06fc8b0ec8d5ff8142af104847c8cc35b8cfd
+=======
+7. Brendan Sholl
+>>>>>>> 3e0a0c1467b9dbc937b3367dbcb4995ac63582de
 
 Trainer:
 1. Tim Gattie
+
 
 EOF
