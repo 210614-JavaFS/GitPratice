@@ -16,8 +16,8 @@ Amplifire:
 8. Aaron Killeen
 
 Vanquish:
-1.Billy Toledo
-2.Munib Khan
+1. Billy Toledo
+2. Munib Khan
 3. Ling Zeng
 
 
@@ -31,6 +31,6 @@ Synergy:
 
 Trainer:
 1. Tim Gattie
->>>>>>> 2eaa962bc0bac408092f6f42c17211dbedd92d48
+
 
 EOF
