@@ -23,10 +23,10 @@ Vanquish:
 Synergy:
 1. Christian Pizarro
 2. Lou Estimar
-4. George Cobb
-5. Fletcher Wilmott
-6. Thomas Woods
-7. Dalton
+3. George Cobb
+4. Fletcher Wilmott
+5. Thomas Woods
+6. Dalton
 
 Trainer:
 1. Tim Gattie
