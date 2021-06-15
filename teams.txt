@@ -1,10 +1,12 @@
 
-1. Christian Pizarro
-2. Matthew Alston
-3. Nattee Setobol
-4. Benjamin Dixon
-5. Muhammad Siddiqui
+Alchemy:
+1. Matthew Alston
+2. Nattee Setobol
+3. Benjamin Dixon
+4. Muhammad Siddiqui
+5. Renzo Silva
 6. Bryan Valenzuela
+7. Christian Pizarro
 
 Amplifire:
 1. June Greenup
