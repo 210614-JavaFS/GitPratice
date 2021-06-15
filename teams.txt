@@ -1,15 +1,37 @@
 Alchemy:
-1.
+
+1. Matthew Alston
+2. Nattee Setobol
+3. Benjamin Dixon
+4. Muhammad Siddiqui
 
 Amplifire:
+
 1. Rose Black
 2. Aaron Killeen
 
+1. June Greenup
+2. Dylan Villhauer
+3. Jose Alfaro
+4. Rose Black
+5. Javier Gonzalez
+6. Matt Malan
+
+
 Vanquish:
-1.
+
+1.Munib Khan
+2. Ling Zeng
 
 Synergy:
+<<<<<<< HEAD
 1. Thomas Woods
+=======
+1. Christian Pizarro
+2. Lou Estimar
+4. George Cobb
+5. Fletcher Wilmott
+>>>>>>> 24d8d8e1d60605c6b3d2538da18cc204a044e64e
 
 Trainer:
 1. Tim Gattie
