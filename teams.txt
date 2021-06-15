@@ -13,6 +13,7 @@ Amplifire:
 5. Javier Gonzalez
 6. Matt Malan
 7. Hong Wu
+8. Aaron Killeen
 
 Vanquish:
 1.Billy Toledo
