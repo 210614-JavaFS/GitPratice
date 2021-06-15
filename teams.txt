@@ -16,7 +16,11 @@ Synergy:
 2. Nattee Setobol
 3. Benjamin Dixon
 4. Muhammad Siddiqui
+<<<<<<< HEAD
+5. Renzo Silva
+=======
 5. Bryan Valenzuela
+>>>>>>> 9956a3c495730d347067e2c4ced3156420017cc6
 
 Amplifire:
 1. June Greenup
