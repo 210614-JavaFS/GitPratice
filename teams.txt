@@ -3,11 +3,10 @@ Alchemy:
 2. Nattee Setobol
 
 Amplifire:
-<<<<<<< HEAD
 1. Jose Alfaro
-=======
+
 1. June Greenup
->>>>>>> 9b44c10b2b4abc897dab8d1b323db89e4ac2e0f9
+
 
 Vanquish:
 1.
