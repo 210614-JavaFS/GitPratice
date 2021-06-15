@@ -32,6 +32,5 @@ Synergy:
 
 Trainer:
 1. Tim Gattie
->>>>>>> 2eaa962bc0bac408092f6f42c17211dbedd92d48
 
 EOF
