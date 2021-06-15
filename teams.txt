@@ -10,4 +10,7 @@ Vanquish:
 Synergy:
 1.
 
+Trainer:
+1. Tim Gattie
+
 EOF
