@@ -27,6 +27,7 @@ Amplifire:
 6. Matt Malan
 7. Hong Wu
 8. Aaron Killeen
+9. Michael Ramirez
 
 Vanquish:
 1. Billy Toledo
@@ -42,7 +43,11 @@ Synergy:
 4. Fletcher Wilmott
 5. Thomas Woods
 6. Dalton
+<<<<<<< HEAD
 >>>>>>> 98b06fc8b0ec8d5ff8142af104847c8cc35b8cfd
+=======
+7. Brendan Sholl
+>>>>>>> 3e0a0c1467b9dbc937b3367dbcb4995ac63582de
 
 Trainer:
 1. Tim Gattie
