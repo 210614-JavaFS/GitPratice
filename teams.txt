@@ -1,26 +1,12 @@
+
 Alchemy:
-<<<<<<< HEAD
-1.
-
-Amplifire:
-1.
-
-Vanquish:
-1. 
-
-Synergy:
-1. Christian Pizarro
-=======
-
 1. Matthew Alston
 2. Nattee Setobol
 3. Benjamin Dixon
 4. Muhammad Siddiqui
-<<<<<<< HEAD
 5. Renzo Silva
-=======
-5. Bryan Valenzuela
->>>>>>> 9956a3c495730d347067e2c4ced3156420017cc6
+6. Bryan Valenzuela
+7. Christian Pizarro
 
 Amplifire:
 1. June Greenup
@@ -51,11 +37,8 @@ Synergy:
 4. Fletcher Wilmott
 5. Thomas Woods
 6. Dalton
-<<<<<<< HEAD
->>>>>>> 98b06fc8b0ec8d5ff8142af104847c8cc35b8cfd
-=======
 7. Brendan Sholl
->>>>>>> 3e0a0c1467b9dbc937b3367dbcb4995ac63582de
+
 
 Trainer:
 1. Tim Gattie
