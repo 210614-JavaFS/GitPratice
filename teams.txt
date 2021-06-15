@@ -4,6 +4,7 @@ Alchemy:
 
 Amplifire:
 1. Jose Alfaro
+2. Javier Gonzalez
 
 Vanquish:
 1.Munib Khan
