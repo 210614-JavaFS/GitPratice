@@ -1,6 +1,8 @@
 Alchemy:
 1. Matthew Alston
 2. Nattee Setobol
+3. Muhammad Siddiqui
+4. Jonathan Vazquez
 
 Amplifire:
 1. June Greenup
@@ -15,7 +17,9 @@ Amplifire:
 
 
 Vanquish:
+
 1.Munib Khan
+2. Ling Zeng
 
 Synergy:
 1. Christian Pizarro
