@@ -7,13 +7,21 @@ Amplifire:
 2. Dylan Villhauer
 3. Jose Alfaro
 
+
+1. June Greenup
+
+
+
 Vanquish:
 1.Munib Khan
 
 Synergy:
-1. Fletcher Wilmott
+<<<<<<< HEAD
+1. Christian Pizarro
+2. Lou Estimar
 
-2. Christian Pizarro
+
+5. Fletcher Wilmott
 
 Trainer:
 1. Tim Gattie
