@@ -13,7 +13,9 @@ Amplifire:
 
 
 Vanquish:
+
 1.Munib Khan
+2. Ling Zeng
 
 Synergy:
 <<<<<<< HEAD
