@@ -9,3 +9,5 @@ Vanquish:
 
 Synergy:
 1.
+
+EOF
