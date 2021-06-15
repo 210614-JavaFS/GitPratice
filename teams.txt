@@ -3,3 +3,6 @@ Alchemy:
 
 Amplifire:
 1.
+
+Synergy:
+1.
