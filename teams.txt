@@ -3,3 +3,6 @@ Alchemy:
 
 Amplifire:
 1.
+
+Vanquish:
+1.
