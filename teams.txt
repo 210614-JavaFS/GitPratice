@@ -29,6 +29,7 @@ Synergy:
 2. Lou Estimar
 4. George Cobb
 5. Fletcher Wilmott
+6. Thomas Woods
 
 Trainer:
 1. Tim Gattie
