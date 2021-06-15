@@ -1,32 +1,46 @@
 Alchemy:
+
 1. Matthew Alston
 2. Nattee Setobol
-3. Muhammad Siddiqui
-4. Jonathan Vazquez
+3. Benjamin Dixon
+4. Muhammad Siddiqui
+5. Bryan Valenzuela
 
 Amplifire:
 1. June Greenup
 2. Dylan Villhauer
 3. Jose Alfaro
-
-
-1. June Greenup
-
-
+4. Rose Black
+5. Javier Gonzalez
+6. Matt Malan
+7. Hong Wu
+8. Aaron Killeen
+9. Michael Ramirez
 
 Vanquish:
+1. Billy Toledo
+2. Munib Khan
+3. Ling Zeng
+
 
 1.Munib Khan
 2. Ling Zeng
 3.Raquel Moura
 
 
+
+
 Synergy:
 1. Christian Pizarro
 2. Lou Estimar
-
+3. George Cobb
+4. Fletcher Wilmott
+5. Thomas Woods
+6. Dalton
+7. Brendan Sholl
 
 Trainer:
 1. Tim Gattie
+
 
 EOF
