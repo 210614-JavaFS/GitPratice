@@ -1,8 +1,9 @@
 Alchemy:
+
 1. Matthew Alston
 2. Nattee Setobol
-3. Muhammad Siddiqui
-4. Jonathan Vazquez
+3. Benjamin Dixon
+4. Muhammad Siddiqui
 
 Amplifire:
 1. June Greenup
@@ -10,10 +11,6 @@ Amplifire:
 3. Jose Alfaro
 4. Rose Black
 5. Javier Gonzalez
-
-1. June Greenup
-
-
 
 Vanquish:
 
