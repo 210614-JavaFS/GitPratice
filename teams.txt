@@ -23,16 +23,9 @@ Vanquish:
 1. Billy Toledo
 2. Munib Khan
 3. Ling Zeng
-<<<<<<< HEAD
 4. Tremaine McIntosh
-=======
-4. Darnell Bryant
->>>>>>> 9956a3c495730d347067e2c4ced3156420017cc6
-
-
-1.Munib Khan
-2. Ling Zeng
-3.Raquel Moura
+5. Darnell Bryant
+6. Raquel Moura
 
 
 
@@ -45,6 +38,7 @@ Synergy:
 5. Thomas Woods
 6. Dalton
 7. Brendan Sholl
+
 
 
 Trainer:
